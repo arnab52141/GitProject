@@ -1,1 +1,1 @@
-This is document named X and this local branch.
+This is document named X and this Master branch.
