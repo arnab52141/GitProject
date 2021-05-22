@@ -1,1 +1,1 @@
-This is document named X.
+This is document named X. This is the file which is used to be commited.
